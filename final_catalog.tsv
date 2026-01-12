@@ -1,0 +1,51 @@
+Filename	Title	Date	Translator	period	category	License	Sentence_Pairs
+G14garsa-eng.tsv	Garga Saṃhita	1000-1300	Danavir Goswami	Medieval	rel_script	cc0	4436
+GE07hv_conpu.tsv	Harivaṃśa	200-500	Dutt	Epic	epic	cc0	7468
+GE07mbh-ganguly.tsv	Mahābharata	400BCE-400CE	Ganguly	Epic	epic	cc0	90789
+GK16dkavy.tsv	Kāvyādarśa	500-700	S K Belvalkar	Classical	poetry	cc0	417
+GK19kaku.tsv	Kumārasambhava	350-450	Kale	Classical	poetry	cc0	424
+GK19meghd.tsv	Meghadūta	350-450	Kale	Classical	poetry	cc0	103
+GK19ragh.tsv	Raghuvaṃśa	350-450	Kale	Classical	poetry	cc0	488
+GK21sokss_train.tsv	Kathāsaritsāgara	1000-1100	C. H. Tawney	Medieval	poetry	cc0	12515
+GP12agp_bi_u.tsv	Agni-Purāṇa	700-1000	Ganghadharan	Classical	purana	cc0 BY-NC-ND 3.0	14207
+GP12sivap.tsv	Ṡiva-Purāṇa	750-1200	Shastri	Classical	purana	cc0	19136
+GP12skp_train.tsv	Skanda-Purāṇa	700-1200	Tagare	Classical	purana	cc0	67176
+GP12visnup.tsv	Viṣṇu-Purāṇa	400-700	Horace Hayman Wilson	Classical	purana	cc0	3574
+GR14vrima.tsv	Vrindavana Mahāmṛta 	1600-1700	Thakura	Medieval	treatises	cc0?	1649
+GS38kautil.tsv	Arthaśāstra	300BCE-100BCE	Shama Sastry	Epic	treatises	cc0	5346
+GS40susruta.tsv	Suśrutasaṃhitā	200-500	Bhishagratna	Classical	treatises	cc0	10233
+GSD36manu_train.tsv	Manusmṛti	200bce-200ce	Bühler	Epic	rel_script	cc0	1384
+GSD36manubhau.tsv	Manubhāṣya	800-900	Jha	Classical	treatises	cc0	19919
+GSD36visnu.tsv	Viṣṇusmṛti	300-600	Jolly	Classical	rel_script	cc0	2831
+GSD37apastd_u.tsv	Āpastamba-Dharmasūtra	600BCE-300BCE	Bühler	Vedic	vedic	cc0	307
+GSD37gautdh_u.tsv	Gautama-Dharmasūtra	600bCE-400BCE	Bühler	Vedic	vedic	cc0	518
+GSP27yogva_train.tsv	Yogavasiṣṭha	900-1300	Mitra	Classical	rel_script	cc0	25801
+GSP28tantrava.tsv	Mīmāṃsāsūtra Tantravarttika	650-750	Jha	Classical	treatises	cc0	6171
+GSP29nyamanu.tsv	Nyāyamañjari	900-1000	Bhattacharyya	Classical	treatises	cc0	7763
+GSP30tantralu2.tsv	Tantrāloka	800-1100	Singh	Classical	rel_script	cc0 BY-NC-ND 4.0	4550
+GSP31iskamatu.tsv	Sāṃkhyakārikā	300-400	Horace Hayman Wilson	Classical	treatises	cc0	606
+GSP33jimuvi.tsv	Jīvanmuktiviveka	1350-1400	H. Ramachandra Swamy	Medieval	rel_script	cc0	1756
+GSP33vacbhamu.tsv	Bhāmatī	850-900	Sastri + Raja	Classical	treatises	cc0	1350
+GSP36sadha.tsv	Sarva-darśana-saṃgraha	1370-1380	Cowell	Medieval	treatises	cc0	1755
+GV00avs_train.tsv	Atharvaveda-Saṃhitā	1200BCE-1000BCE	Griffiths	Vedic	vedic	cc0	2822
+GV00samavedu.tsv	Sāmaveda-Saṃhitā	1200BCE-1000BCE	Griffths	Vedic	vedic	cc0	1343
+GV01rvh_train.tsv	Ṛgveda	1800BCE-1200BCE 	Oldenberg	Vedic	vedic	cc0	11645
+GV03sb_train.tsv	Śatapatha-Brāhmaṇa	800BCE-699BCE	Eggeling	Vedic	vedic	cc0	6193
+GV05chupsau.tsv	Chāndogya-Upaniṣad (Śaṅkarabhāṣya)	700-900	Jha	Classical	treatises	cc0	5109
+GVKyajurvedu.tsv	Kṛṣṇa-Yajurveda	1200BCE-1000BCE	Keith	Vedic	vedic	cc0	7501
+GVsyajurvedu.tsv	Śukla-Yajurveda	1100BCE-900BCE	Griffiths	Vedic	vedic	cc0	1776
+Kv.tsv	Arthaviniścayasūtra	100-800	Ānandajoti	Epic	rel_script	cc0	5052
+Ppdhp.tsv	Dhammapada 	100-300	Ānandajoti	Epic	rel_script	cc0	842
+T04bsa047.tsv	Bhāvanākrama	770-780	Sharma	Classical	treatises	cc0	873
+T04tat_train.tsv	Tattvasaṃgraha	760-780	Jha	Classical	treatises	cc0	981
+T04tatpa.tsv	Tattvasaṃgraha Pañjikā	780-790	Jha	Classical	treatises	cc0	17186
+T06bsa018.tsv	Triṃśikāvijñaptikārikā 	350-400	Anacker	Classical	treatises	cc0	20
+T06bsa065.tsv	Pañcaskandhaprakaraṇa	350-450	Anacker	Classical	treatises	cc0	151
+T06sthmavt1.tsv	Madhyāntavibhāgaṭīkā 1	550-600	Shcherbatskoy	Classical	treatises	cc0	888
+T06sthmavt_u.tsv	Madhyāntavibhāgaṭīkā	550-600	Stanley	Classical	treatises	cc0	2601
+T06sthtvbh.tsv	Triṃśikāvijñaptibhāṣya	550-600	Jacobi	Classical	treatises	cc0	635
+T06vasvvmsu.tsv	Viṃśatikā vijñaptimātratāsiddh	350-450	Anacker	Classical	treatises	cc0	162
+T06vmvkbh_u.tsv	Madhyāntavibhāgabhāṣya	350-450	Anacker	Classical	treatises	cc0	630
+T07vakobhau.tsv	Abhidharmakośabhāṣya	350-450	Pruden	Classical	treatises	cc0	10827
+T07vakobhku.tsv	Abhidharmakośakārikā	350-450	Pruden	Classical	treatises	cc0	597
+T09hjatm.tsv	Jātakamālā	400-500	Speyer	Classical	treatises	cc0	2683
